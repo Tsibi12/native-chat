@@ -11,14 +11,7 @@ import 'firebase/firestore'
 const firebaseConfig = {
     //Your firebase config here
     
-    apiKey: "AIzaSyBpU4uM31iLe6CCATB1d1RegUvdj90PRBY",
-    authDomain: "react-native-chat-f1cb7.firebaseapp.com",
-    databaseURL: "https://react-native-chat-f1cb7.firebaseio.com",
-    projectId: "react-native-chat-f1cb7",
-    storageBucket: "react-native-chat-f1cb7.appspot.com",
-    messagingSenderId: "638381073397",
-    appId: "1:638381073397:web:455fe1e655a9e2a205f6bc"
-      
+          
 }
 
 if (firebase.apps.length === 0) {
